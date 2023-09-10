@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlo!
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently working with Angular
 - 💞️ I’m looking for someone to collaborate on some cool project ideas
 - 📫 Check my Linkedin to contact me! https://www.linkedin.com/in/carlo-edoardo-ciarnelli-008319142/
